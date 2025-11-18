@@ -30,7 +30,7 @@ export default {
     gap: 20px;
 }
 .link {
-    color: black;
+    color: #FFF;
     position: relative;
     text-decoration: none;
     font-size: medium;
@@ -44,7 +44,7 @@ export default {
     bottom: -3px;
     width: 0;
     height: 2px;
-    background-color: black;
+    background-color: #FFF;
     transition: width 0.25s ease-in-out;
 }
 .link:hover::after{

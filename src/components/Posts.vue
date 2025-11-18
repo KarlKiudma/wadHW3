@@ -76,7 +76,7 @@ methods: {
   max-width: 600px;
   margin: 20px auto;
   padding: 0 15px;
-  color: black;
+  color: #FFF;
   display: flex;
   flex-direction: column;
 }
