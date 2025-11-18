@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "author": "Karl Markus Kiudma",
+    "date": "Oct 2, 2022",
+    "profileImage": "me.png",
+    "image": "tartu.png",
+    "title": "Authmn in Tartu",
+    "text": "Tartu is very beutiful in authmn!",
+    "location": "Tartu, Estonia",
+    "likes": 25,
+    "tags": ["Tartu", "Authmn"]
+  },
+  {
+    "id": 2,
+    "author": "Rene Dapon",
+    "date": "Nov 5, 2022",
+    "profileImage": "me.png",
+    "image": "lake.png",
+    "title": "Relaxing by the Lake",
+    "text": "Spent the afternoon by Peipsi lake. Perfect weather and calm water.",
+    "location": "Peipsi, Estonia",
+    "likes": 42,
+    "tags": ["Lake", "Nature", "Relax"]
+  },
+  {
+    "id": 3,
+    "author": "Tregert Gustav Värv",
+    "date": "Dec 1, 2022",
+    "profileImage": "me.png",
+    "image": "snow.png",
+    "title": "First Snow!",
+    "text": "First snow has fallen and the city looks magical!",
+    "location": "Tallinn, Estonia",
+    "likes": 67,
+    "tags": ["Winter", "Snow", "Tallinn"]
+  },
+  {
+    "id": 4,
+    "author": "Rene Dapon",
+    "date": "Mar 15, 2023",
+    "profileImage": "me.png",
+    "image": "friends.png",
+    "title": "Weekend with Friends",
+    "text": "Had a great time hiking with my best friends. Fresh air and laughter!",
+    "location": "Otepää, Estonia",
+    "likes": 58,
+    "tags": ["Friends", "Hiking", "Weekend"]
+  },
+  {
+    "id": 5,
+    "author": "Karl Markus Kiudma",
+    "date": "Jun 24, 2023",
+    "profileImage": "me.png",
+    "image": null,
+    "title": "Cool Posts",
+    "text": "These are some really cool posts worth checking out!",
+    "location": "Online",
+    "likes": 84,
+    "tags": ["Cool", "Posts", "Trending"]
+  },
+  {
+    "id": 6,
+    "author": "Tregert Gustav Värv",
+    "date": "Apr 15, 2024",
+    "profileImage": "me.png",
+    "image": "meenikunno.png",
+    "title": "Morning walk in Meenikunno bog",
+    "text": "A peaceful day surrounded by nature. Meenikunno bog never disappoints — sunshine, silence and pure Estonian beauty.",
+    "location": "Meenikunno, Estonia",
+    "likes": 61,
+    "tags": ["Meenikunno", "Hike", "Nature", "Estonia"]
+  },
+  {
+    "id": 7,
+    "author": "Karl Markus Kiudma",
+    "date": "May 22, 2024",
+    "profileImage": "me.png",
+    "image": "discgolf.png",
+    "title": "Weekend disc golf round",
+    "text": "Tried out a new disc golf course this weekend — great weather, challenging fairways and a few birdies too!",
+    "location": "Elva, Estonia",
+    "likes": 79,
+    "tags": ["Discgolf", "Sports", "Weekend", "Elva"]
+  },
+  {
+    "id": 8,
+    "author": "Rene Dapon",
+    "date": "Jul 13, 2024",
+    "profileImage": "me.png",
+    "image": "beachgrind.png",
+    "title": "Beach Grind Festival",
+    "text": "Unreal energy at Beach Grind this summer — fire shows, loud music and thousands of people having the time of their lives!",
+    "location": "Pärnu, Estonia",
+    "likes": 115,
+    "tags": ["Festival", "BeachGrind", "Summer", "Music"]
+  },
+  {
+    "id": 9,
+    "author": "Tregert Gustav Värv",
+    "date": "May 18, 2025",
+    "profileImage": "me.png",
+    "image": "everest.png",
+    "title": "Climbing new heights",
+    "text": "Reaching the top isn’t just about the view — it’s about every step, every challenge, and every moment you kept going.",
+    "location": "Mount Everest",
+    "likes": 121,
+    "tags": ["Adventure", "Mountains", "Challenge", "Travel"]
+  },
+  {
+    "id": 10,
+    "author": "Karl Markus Kiudma",
+    "date": "Apr 12, 2025",
+    "profileImage": "me.png",
+    "image": "codingnight.png",
+    "title": "Focus mode",
+    "text": "Coding through the night with coffee, headphones and pure concentration — when the world is quiet, code just flows.",
+    "location": "Tartu, Estonia",
+    "likes": 64,
+    "tags": ["Coding", "Night", "Focus", "Programming"]
+  }
+]
