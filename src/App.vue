@@ -14,4 +14,9 @@ export default {
   components: { HeaderComponent, FooterComponent}
 };
 </script>
-
+<style>
+body {
+  background-color: rgb(45, 45, 45);
+  margin: 0;
+}
+</style>

@@ -17,7 +17,7 @@ export default {
 .header {
     width: 100%;
     height: 15%;
-    background-color: lightslategray;
+    background-color: rgb(31, 163, 163);
     padding-bottom: 15px;
     padding-top: 15px;
     display: flex;

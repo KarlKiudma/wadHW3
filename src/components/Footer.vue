@@ -14,7 +14,7 @@ export default{
 <style>
 .footer{
     width: 100%;
-    background-color: lightslategray;
+    background-color: rgb(31, 163, 163);
     padding: 15px 25px;
     text-align: center;
     box-sizing: border-box;

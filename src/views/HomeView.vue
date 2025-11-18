@@ -29,6 +29,7 @@ export default {
   display: flex;
   flex-direction: column;
   align-items: center;  
+  background-color: rgb(45, 45, 45);
 }
 
 button{

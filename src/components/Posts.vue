@@ -82,7 +82,8 @@ methods: {
 }
 
 .post {
-  border: 1px solid #ccc;
+    background-color: rgb(255, 102, 82);
+  border: 1px solid rgb(255, 102, 82);
   border-radius: 8px;
   margin: 20px 0;
   padding: 15px;
@@ -91,11 +92,11 @@ methods: {
 
 .post + .post {
   margin-top: 40px;
-  border-top: 2px dashed #aaa;
+  border-top: 2px dashed rgb(255, 102, 82);
 }
 
 .post ~ .post {
-  border-top: 2px solid #ddd;
+  border-top: 2px solid rgb(255, 102, 82);
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
   padding-top: 20px;
 }
@@ -116,7 +117,7 @@ methods: {
 .profile-picture {
   width: 40px;
   height: 40px;
-  border-radius: 50%;
+  border-radius: 10%;
   object-fit: cover;
 }
 
