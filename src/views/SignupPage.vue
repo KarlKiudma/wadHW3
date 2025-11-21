@@ -24,7 +24,6 @@
           />
         </div>
 
-        <!-- Parooli veateade – kuvatakse ainult siis, kui midagi on sisestatud -->
         <div v-if="password && passwordErrors.length" class="error-msg">
           <strong>The password is not valid:</strong>
           <ul>
@@ -96,10 +95,10 @@ export default {
 
 <style scoped>
 .signup-page {
-  height: 100vh;           /* fill page */
+  height: 100vh;
   display: flex;
-  justify-content: center; /* horisontaalis keskel */
-  align-items: center;     /* vertikaalis keskel */
+  justify-content: center;
+  align-items: center;
   background-color: #ffffff;
 }
 
