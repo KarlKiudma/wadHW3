@@ -99,11 +99,10 @@ export default {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #ffffff;
 }
 
 .signup-card {
-  background-color: #cfead9;
+  background-color: rgb(255, 102, 82);
   padding: 24px 32px;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
@@ -121,7 +120,7 @@ export default {
 label {
   width: 90px;
   margin-right: 10px;
-  font-weight: 600;
+  color: white;
 }
 
 input {
@@ -145,13 +144,14 @@ button {
   border-radius: 20px;
   border: none;
   cursor: pointer;
-  background-color: #4a9ae9;
+  background-color: rgb(31, 163, 163);
   color: white;
   font-weight: 600;
 }
 
 button:hover {
   opacity: 0.9;
+  background-color: #163f6f;
 }
 
 .error-msg {
