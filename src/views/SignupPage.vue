@@ -157,7 +157,7 @@ button:hover {
 .error-msg {
   margin-top: 8px;
   margin-bottom: 8px;
-  color: #c0392b;
+  color: #3f0124;
   font-size: 0.9rem;
 }
 </style>
