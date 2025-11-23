@@ -19,7 +19,7 @@ export default{
     text-align: center;
     box-sizing: border-box;
     font-size: small;
-    color: black;
+    color: white;
     font-family: 'Inter', sans-serif;
 
 }
