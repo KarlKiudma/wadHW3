@@ -159,4 +159,44 @@ methods: {
   font-weight: bold;
   margin-top: 5px;
 }
+
+@media (max-width: 600px) {
+
+.posts {
+  padding: 0 10px;
+  margin: 10px auto;
+}
+
+.post {
+  margin: 15px 0;
+  padding: 12px;
+}
+
+.post + .post {
+  margin-top: 25px;
+}
+
+.post-header {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+}
+
+.profile-picture {
+  width: 32px;
+  height: 32px;
+}
+
+.post-content p {
+  font-size: 0.95em;
+  line-height: 1.4;
+}
+
+.like-button {
+  width: 100%;
+  text-align: center;
+  margin: 15px 0 5px 0;
+  padding: 12px 0;
+}
+}
   </style>
